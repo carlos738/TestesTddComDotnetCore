@@ -1,0 +1,15 @@
+/home/machine/Documentos/BOOTCAMP-XP-FULLSTACK-DEVELOPER/ATIVIDADES-DO-CURSO/TestesTddComDotnetCore/NewsTalents/bin/Debug/net8.0/NewsTalents
+/home/machine/Documentos/BOOTCAMP-XP-FULLSTACK-DEVELOPER/ATIVIDADES-DO-CURSO/TestesTddComDotnetCore/NewsTalents/bin/Debug/net8.0/NewsTalents.deps.json
+/home/machine/Documentos/BOOTCAMP-XP-FULLSTACK-DEVELOPER/ATIVIDADES-DO-CURSO/TestesTddComDotnetCore/NewsTalents/bin/Debug/net8.0/NewsTalents.runtimeconfig.json
+/home/machine/Documentos/BOOTCAMP-XP-FULLSTACK-DEVELOPER/ATIVIDADES-DO-CURSO/TestesTddComDotnetCore/NewsTalents/bin/Debug/net8.0/NewsTalents.dll
+/home/machine/Documentos/BOOTCAMP-XP-FULLSTACK-DEVELOPER/ATIVIDADES-DO-CURSO/TestesTddComDotnetCore/NewsTalents/bin/Debug/net8.0/NewsTalents.pdb
+/home/machine/Documentos/BOOTCAMP-XP-FULLSTACK-DEVELOPER/ATIVIDADES-DO-CURSO/TestesTddComDotnetCore/NewsTalents/obj/Debug/net8.0/NewsTalents.GeneratedMSBuildEditorConfig.editorconfig
+/home/machine/Documentos/BOOTCAMP-XP-FULLSTACK-DEVELOPER/ATIVIDADES-DO-CURSO/TestesTddComDotnetCore/NewsTalents/obj/Debug/net8.0/NewsTalents.AssemblyInfoInputs.cache
+/home/machine/Documentos/BOOTCAMP-XP-FULLSTACK-DEVELOPER/ATIVIDADES-DO-CURSO/TestesTddComDotnetCore/NewsTalents/obj/Debug/net8.0/NewsTalents.AssemblyInfo.cs
+/home/machine/Documentos/BOOTCAMP-XP-FULLSTACK-DEVELOPER/ATIVIDADES-DO-CURSO/TestesTddComDotnetCore/NewsTalents/obj/Debug/net8.0/NewsTalents.csproj.CoreCompileInputs.cache
+/home/machine/Documentos/BOOTCAMP-XP-FULLSTACK-DEVELOPER/ATIVIDADES-DO-CURSO/TestesTddComDotnetCore/NewsTalents/obj/Debug/net8.0/NewsTalents.sourcelink.json
+/home/machine/Documentos/BOOTCAMP-XP-FULLSTACK-DEVELOPER/ATIVIDADES-DO-CURSO/TestesTddComDotnetCore/NewsTalents/obj/Debug/net8.0/NewsTalents.dll
+/home/machine/Documentos/BOOTCAMP-XP-FULLSTACK-DEVELOPER/ATIVIDADES-DO-CURSO/TestesTddComDotnetCore/NewsTalents/obj/Debug/net8.0/refint/NewsTalents.dll
+/home/machine/Documentos/BOOTCAMP-XP-FULLSTACK-DEVELOPER/ATIVIDADES-DO-CURSO/TestesTddComDotnetCore/NewsTalents/obj/Debug/net8.0/NewsTalents.pdb
+/home/machine/Documentos/BOOTCAMP-XP-FULLSTACK-DEVELOPER/ATIVIDADES-DO-CURSO/TestesTddComDotnetCore/NewsTalents/obj/Debug/net8.0/NewsTalents.genruntimeconfig.cache
+/home/machine/Documentos/BOOTCAMP-XP-FULLSTACK-DEVELOPER/ATIVIDADES-DO-CURSO/TestesTddComDotnetCore/NewsTalents/obj/Debug/net8.0/ref/NewsTalents.dll
