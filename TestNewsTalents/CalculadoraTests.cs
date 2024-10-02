@@ -44,7 +44,7 @@ namespace TestNewsTalents
         [Theory]
         [InlineData(24,4,6)]
         [InlineData(5,5,1)]
-        [InlineData(34,3,102)]
+        [InlineData(81,9,9)]
         public void TestDividir(int valor1,int valor2,int resultado){
             Calculadora calc = construirClasse();
             int resultadoCalculadora = calc.dividir(valor1,valor2);
